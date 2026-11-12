@@ -1,0 +1,4 @@
+{
+  "checkpoint": "outputs/full/recovery.pt",
+  "instructions": "Run evaluate.py full --stage midpoint; qualitative.py full --stage midpoint; diagnostics.py full --stage midpoint, then resume training."
+}

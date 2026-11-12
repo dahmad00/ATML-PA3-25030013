@@ -1,0 +1,15 @@
+
+# Large files
+/Task1/outputs/train_data/data-00000-of-00001.arrow
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python environments and cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

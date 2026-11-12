@@ -1,0 +1,1538 @@
+[
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 876,
+    "activation_ratio": 0.04470175877213478,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 1232,
+    "activation_ratio": 0.04323423653841019,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 778,
+    "activation_ratio": 0.04437500983476639,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 1242,
+    "activation_ratio": 0.04447471350431442,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 871,
+    "activation_ratio": 0.044400688260793686,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 1094,
+    "activation_ratio": 0.04604790732264519,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 816,
+    "activation_ratio": 0.04241698235273361,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 788,
+    "activation_ratio": 0.04279152676463127,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 325,
+    "activation_ratio": 0.04398348927497864,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 1264,
+    "activation_ratio": 0.04636051133275032,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 198,
+    "activation_ratio": 0.046055883169174194,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 1179,
+    "activation_ratio": 0.04338549077510834,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 365,
+    "activation_ratio": 0.04251806437969208,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 554,
+    "activation_ratio": 0.044327035546302795,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 9,
+    "activation_ratio": 0.04515545070171356,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 769,
+    "activation_ratio": 0.04452238231897354,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 0,
+    "activation_ratio": 0.04541538655757904,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 568,
+    "activation_ratio": 0.04381715506315231,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 821,
+    "activation_ratio": 0.04539504274725914,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 233,
+    "activation_ratio": 0.04462799057364464,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 929,
+    "activation_ratio": 0.04358762502670288,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 474,
+    "activation_ratio": 0.04259014502167702,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 1182,
+    "activation_ratio": 0.04226580634713173,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 267,
+    "activation_ratio": 0.045605968683958054,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 1314,
+    "activation_ratio": 0.04493183270096779,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 1118,
+    "activation_ratio": 0.04571627825498581,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 502,
+    "activation_ratio": 0.044880859553813934,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 672,
+    "activation_ratio": 0.04627157375216484,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 1302,
+    "activation_ratio": 0.044248584657907486,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 1218,
+    "activation_ratio": 0.04548878222703934,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 335,
+    "activation_ratio": 0.043566618114709854,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "math",
+    "example_id": 811,
+    "activation_ratio": 0.044371895492076874,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 5143,
+    "activation_ratio": 0.0268645491451025,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 4353,
+    "activation_ratio": 0.026834281161427498,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 4219,
+    "activation_ratio": 0.025000296533107758,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 4011,
+    "activation_ratio": 0.026752591133117676,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 9663,
+    "activation_ratio": 0.02598913386464119,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 2674,
+    "activation_ratio": 0.00990589801222086,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 9856,
+    "activation_ratio": 0.025878343731164932,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 3540,
+    "activation_ratio": 0.02572726644575596,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 9364,
+    "activation_ratio": 0.027097566053271294,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 426,
+    "activation_ratio": 0.007061305455863476,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 8497,
+    "activation_ratio": 0.02450227551162243,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 9299,
+    "activation_ratio": 0.027049507945775986,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 8935,
+    "activation_ratio": 0.024626590311527252,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 6139,
+    "activation_ratio": 0.029678629711270332,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 5429,
+    "activation_ratio": 0.026761841028928757,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 385,
+    "activation_ratio": 0.020552044734358788,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 3539,
+    "activation_ratio": 0.026226678863167763,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 751,
+    "activation_ratio": 0.007236550096422434,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 7732,
+    "activation_ratio": 0.02717282995581627,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 2402,
+    "activation_ratio": 0.00969262421131134,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 5426,
+    "activation_ratio": 0.02753903530538082,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 895,
+    "activation_ratio": 0.005943567492067814,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 3620,
+    "activation_ratio": 0.025477373972535133,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 2194,
+    "activation_ratio": 0.012079127132892609,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 1424,
+    "activation_ratio": 0.01409787405282259,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 7469,
+    "activation_ratio": 0.02746555022895336,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 5396,
+    "activation_ratio": 0.028108563274145126,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 6176,
+    "activation_ratio": 0.03010600060224533,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 4864,
+    "activation_ratio": 0.022912679240107536,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 8751,
+    "activation_ratio": 0.026218615472316742,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 8549,
+    "activation_ratio": 0.02804495021700859,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 0,
+    "kind": "nonmath",
+    "example_id": 8657,
+    "activation_ratio": 0.024852285161614418,
+    "rho": 0.15036781132221222,
+    "eta": 0.009565277025103569
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 876,
+    "activation_ratio": 0.06719721108675003,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 1232,
+    "activation_ratio": 0.06866627186536789,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 778,
+    "activation_ratio": 0.07121314853429794,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 1242,
+    "activation_ratio": 0.0681159719824791,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 871,
+    "activation_ratio": 0.06833834946155548,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 1094,
+    "activation_ratio": 0.06888090074062347,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 816,
+    "activation_ratio": 0.071612149477005,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 788,
+    "activation_ratio": 0.07126647233963013,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 325,
+    "activation_ratio": 0.0673266053199768,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 1264,
+    "activation_ratio": 0.06584898382425308,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 198,
+    "activation_ratio": 0.06794857978820801,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 1179,
+    "activation_ratio": 0.07101205736398697,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 365,
+    "activation_ratio": 0.06952209770679474,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 554,
+    "activation_ratio": 0.0673050731420517,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 9,
+    "activation_ratio": 0.07026717811822891,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 769,
+    "activation_ratio": 0.06942440569400787,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 0,
+    "activation_ratio": 0.06920326501131058,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 568,
+    "activation_ratio": 0.06680582463741302,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 821,
+    "activation_ratio": 0.0687626302242279,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 233,
+    "activation_ratio": 0.06988673657178879,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 929,
+    "activation_ratio": 0.07018745690584183,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 474,
+    "activation_ratio": 0.06806395947933197,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 1182,
+    "activation_ratio": 0.0699167475104332,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 267,
+    "activation_ratio": 0.06677184998989105,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 1314,
+    "activation_ratio": 0.06705452501773834,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 1118,
+    "activation_ratio": 0.06945876777172089,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 502,
+    "activation_ratio": 0.06893670558929443,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 672,
+    "activation_ratio": 0.06741876900196075,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 1302,
+    "activation_ratio": 0.07033181190490723,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 1218,
+    "activation_ratio": 0.06900247931480408,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 335,
+    "activation_ratio": 0.06701567769050598,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "math",
+    "example_id": 811,
+    "activation_ratio": 0.06870734691619873,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 5143,
+    "activation_ratio": 0.01940993033349514,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 4353,
+    "activation_ratio": 0.01124383695423603,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 4219,
+    "activation_ratio": 0.00995990727096796,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 4011,
+    "activation_ratio": 0.02917255088686943,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 9663,
+    "activation_ratio": 0.027083128690719604,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 2674,
+    "activation_ratio": 0.020618747919797897,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 9856,
+    "activation_ratio": 0.01118793897330761,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 3540,
+    "activation_ratio": 0.009188452735543251,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 9364,
+    "activation_ratio": 0.008449251763522625,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 426,
+    "activation_ratio": 0.026176953688263893,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 8497,
+    "activation_ratio": 0.014761083759367466,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 9299,
+    "activation_ratio": 0.015256868675351143,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 8935,
+    "activation_ratio": 0.025984028354287148,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 6139,
+    "activation_ratio": 0.012663318775594234,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 5429,
+    "activation_ratio": 0.013014453463256359,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 385,
+    "activation_ratio": 0.023861629888415337,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 3539,
+    "activation_ratio": 0.023252690210938454,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 751,
+    "activation_ratio": 0.022981861606240273,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 7732,
+    "activation_ratio": 0.026563705876469612,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 2402,
+    "activation_ratio": 0.011978567577898502,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 5426,
+    "activation_ratio": 0.025147393345832825,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 895,
+    "activation_ratio": 0.02379588410258293,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 3620,
+    "activation_ratio": 0.007815098389983177,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 2194,
+    "activation_ratio": 0.013992099091410637,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 1424,
+    "activation_ratio": 0.0329366959631443,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 7469,
+    "activation_ratio": 0.016682280227541924,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 5396,
+    "activation_ratio": 0.016403377056121826,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 6176,
+    "activation_ratio": 0.02097056247293949,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 4864,
+    "activation_ratio": 0.015442532487213612,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 8751,
+    "activation_ratio": 0.0072995699010789394,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 8549,
+    "activation_ratio": 0.009293325245380402,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 13,
+    "kind": "nonmath",
+    "example_id": 8657,
+    "activation_ratio": 0.014368416741490364,
+    "rho": 0.14682582020759583,
+    "eta": 0.010780428536236286
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 876,
+    "activation_ratio": 0.011789700016379356,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 1232,
+    "activation_ratio": 0.009312816895544529,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 778,
+    "activation_ratio": 0.009195554070174694,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 1242,
+    "activation_ratio": 0.012701953761279583,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 871,
+    "activation_ratio": 0.008575839921832085,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 1094,
+    "activation_ratio": 0.00952077005058527,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 816,
+    "activation_ratio": 0.010648442432284355,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 788,
+    "activation_ratio": 0.012048420496284962,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 325,
+    "activation_ratio": 0.009800138883292675,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 1264,
+    "activation_ratio": 0.008293485268950462,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 198,
+    "activation_ratio": 0.008602406829595566,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 1179,
+    "activation_ratio": 0.011149381287395954,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 365,
+    "activation_ratio": 0.008287259377539158,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 554,
+    "activation_ratio": 0.011264821514487267,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 9,
+    "activation_ratio": 0.009423057548701763,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 769,
+    "activation_ratio": 0.00875005405396223,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 0,
+    "activation_ratio": 0.009807082824409008,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 568,
+    "activation_ratio": 0.009838958270847797,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 821,
+    "activation_ratio": 0.010947423987090588,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 233,
+    "activation_ratio": 0.009259400889277458,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 929,
+    "activation_ratio": 0.00905908364802599,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 474,
+    "activation_ratio": 0.010808912105858326,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 1182,
+    "activation_ratio": 0.009912025183439255,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 267,
+    "activation_ratio": 0.009658578783273697,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 1314,
+    "activation_ratio": 0.012740335427224636,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 1118,
+    "activation_ratio": 0.008321715518832207,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 502,
+    "activation_ratio": 0.007303415331989527,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 672,
+    "activation_ratio": 0.007673248648643494,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 1302,
+    "activation_ratio": 0.012223850004374981,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 1218,
+    "activation_ratio": 0.006815414875745773,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 335,
+    "activation_ratio": 0.008206573314964771,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "math",
+    "example_id": 811,
+    "activation_ratio": 0.0082000233232975,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 5143,
+    "activation_ratio": 0.005304441787302494,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 4353,
+    "activation_ratio": 0.004641382023692131,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 4219,
+    "activation_ratio": 0.006513007450848818,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 4011,
+    "activation_ratio": 0.004596907179802656,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 9663,
+    "activation_ratio": 0.006014770828187466,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 2674,
+    "activation_ratio": 0.01035138126462698,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 9856,
+    "activation_ratio": 0.0051810420118272305,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 3540,
+    "activation_ratio": 0.007893824018537998,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 9364,
+    "activation_ratio": 0.0052058640867471695,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 426,
+    "activation_ratio": 0.011741746217012405,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 8497,
+    "activation_ratio": 0.004182560835033655,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 9299,
+    "activation_ratio": 0.003390830708667636,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 8935,
+    "activation_ratio": 0.007000262849032879,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 6139,
+    "activation_ratio": 0.006521621253341436,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 5429,
+    "activation_ratio": 0.004395456984639168,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 385,
+    "activation_ratio": 0.009438086301088333,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 3539,
+    "activation_ratio": 0.005916508845984936,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 751,
+    "activation_ratio": 0.010343793779611588,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 7732,
+    "activation_ratio": 0.003497455036267638,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 2402,
+    "activation_ratio": 0.012249238789081573,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 5426,
+    "activation_ratio": 0.004598398692905903,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 895,
+    "activation_ratio": 0.007542226929217577,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 3620,
+    "activation_ratio": 0.004053086042404175,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 2194,
+    "activation_ratio": 0.008812730200588703,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 1424,
+    "activation_ratio": 0.014766691252589226,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 7469,
+    "activation_ratio": 0.005563197657465935,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 5396,
+    "activation_ratio": 0.004526803735643625,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 6176,
+    "activation_ratio": 0.0046278731897473335,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 4864,
+    "activation_ratio": 0.006153255235403776,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 8751,
+    "activation_ratio": 0.0038235674146562815,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 8549,
+    "activation_ratio": 0.005372453015297651,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  },
+  {
+    "layer": 27,
+    "kind": "nonmath",
+    "example_id": 8657,
+    "activation_ratio": 0.008598532527685165,
+    "rho": 0.09656709432601929,
+    "eta": 0.007956515066325665
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "train_seconds_this_session": 4398.451991731999,
+  "peak_gpu_gb": 10.203215872,
+  "trainable_parameters": 10092544,
+  "checkpoint_bytes": 1636927453,
+  "reference_bytes": 0
+}

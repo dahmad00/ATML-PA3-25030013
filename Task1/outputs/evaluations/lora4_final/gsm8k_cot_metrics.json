@@ -1,0 +1,9 @@
+{
+  "name": "gsm8k_cot",
+  "alias": "gsm8k_cot",
+  "sample_len": 1319,
+  "exact_match,strict-match": 0.000758150113722517,
+  "exact_match_stderr,strict-match": 0.0007581501137225411,
+  "exact_match,flexible-extract": 0.558756633813495,
+  "exact_match_stderr,flexible-extract": 0.013677059478592638
+}

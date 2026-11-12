@@ -1,0 +1,15 @@
+{
+  "method": "full",
+  "model": "Qwen/Qwen3-0.6B",
+  "seed": 6304,
+  "learning_rate": 2e-05,
+  "microbatch": 2,
+  "accumulation": 16,
+  "updates": 1250,
+  "warmup": 38,
+  "max_length": 2048,
+  "trainable": 596049920,
+  "weight_decay": 0.01,
+  "l2sp_lambda": 0,
+  "precision": "fp16 AMP, fp32 trainable parameters"
+}

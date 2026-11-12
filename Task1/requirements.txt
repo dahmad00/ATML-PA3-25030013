@@ -1,0 +1,7 @@
+transformers>=4.55,<5
+datasets
+peft
+accelerate
+lm-eval
+pyyaml
+matplotlib
