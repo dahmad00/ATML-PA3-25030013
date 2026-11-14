@@ -1,0 +1,6 @@
+transformers==4.53.3
+peft==0.15.2
+matplotlib>=3.7,<4
+numpy
+Pillow
+tqdm

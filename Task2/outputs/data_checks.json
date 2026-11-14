@@ -1,0 +1,1 @@
+{"images": {"train": 8835, "dev_natural": 64, "dev_caption": 96, "dev_grounding": 48, "test_natural": 192, "test_grounding": 128}, "feature_shape": [9363, 196, 768], "dtype": "float16", "disjoint": true}
