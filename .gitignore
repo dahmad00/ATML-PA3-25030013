@@ -21,3 +21,4 @@ __pycache__/
 /Task3/ATML-PA3-Data/qwen25-math/probability_metrics.parquet
 /Task3/ATML-PA3-Data/qwen25vl-mathvista/probability_metrics.parquet
 /Task3/ATML-PA3-Data/qwen25vl-mathvista/attention_metrics.parquet
+/Task3/**/*.pkl
