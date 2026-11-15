@@ -18,3 +18,6 @@ __pycache__/
 /Task2/raw/val2014.zip
 /Task2/raw/annotations_trainval2014.zip
 /Task2/raw/train2014.zip
+/Task3/ATML-PA3-Data/qwen25-math/probability_metrics.parquet
+/Task3/ATML-PA3-Data/qwen25vl-mathvista/probability_metrics.parquet
+/Task3/ATML-PA3-Data/qwen25vl-mathvista/attention_metrics.parquet

@@ -1,0 +1,4 @@
+method,baseline,delta,low,high
+refine,parallel,0.04,-0.04,0.12
+refine,long,0.1,-0.02,0.22049999999999956
+parallel,long,0.06,-0.04,0.16
