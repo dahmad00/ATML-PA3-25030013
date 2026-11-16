@@ -1,13 +1,5 @@
 # ATML PA3
 
-This assignment studies how a language model's accuracy changes when you fine-tune its weights, give it image features, or spend more compute answering a question.
-
-| Experiment | Question | Published results |
-|---|---|---|
-| Task 1 · Math fine-tuning | How do full fine-tuning, L2-SP, LoRA (ranks 4 and 16), and OP-LoRA affect Qwen3-0.6B on math and general reasoning benchmarks? | [Benchmark scores](Task1/outputs/analysis/benchmark_metrics.csv) |
-| Task 2 · Visual grounding | Does a SigLIP–Qwen model use the image when answering paired COCO and VQAv2 questions? | [Scores by image condition](Task2/outputs/metrics.csv) |
-| Task 3 · Test-time compute | How do answer selection and adaptive stopping trade accuracy for generated tokens on MATH and MathVista? | [Offline results](Task3/outputs/offline), [adaptive policies](Task3/outputs/adaptive), [live generation](Task3/outputs/live) |
-
 ## Setup
 
 The commands use Bash on Linux. For the full experiments, start with Python 3.10–3.12 and a CUDA-enabled PyTorch environment (PyTorch 2.6+ with matching torchvision). Only live generation needs a GPU in Task 3. Allow about 30 GB of free disk space for Task 2 alone. The preparation scripts need internet access for missing datasets and model weights.
